@@ -58,7 +58,7 @@ typings/
 .env
 
 # Distribution directories
-dist/
+# dist/
 .next
 
 # Mac OSX files
